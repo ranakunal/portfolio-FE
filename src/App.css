@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  gap: 16px;
+  background: #222;
+  padding: 16px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 20px;
+  text-align: center;
+  background: #eee;
+  color: #333;
+}
